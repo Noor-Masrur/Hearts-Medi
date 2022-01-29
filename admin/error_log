@@ -1,0 +1,41 @@
+[18-Nov-2021 20:59:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/heartsme/public_html/admin/add_book.php on line 74
+[18-Nov-2021 20:59:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/heartsme/public_html/admin/add_book.php on line 74
+[24-Nov-2021 04:35:13 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/user.php on line 3
+[24-Nov-2021 11:59:32 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/book_payment.php on line 3
+[24-Nov-2021 12:02:29 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/book_payment.php on line 3
+[24-Nov-2021 12:17:46 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/home.php on line 3
+[04-Dec-2021 10:34:31 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/book_payment.php on line 3
+[08-Dec-2021 13:37:12 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/book_payment.php on line 3
+[08-Dec-2021 13:48:46 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/edit.php on line 3
+[08-Dec-2021 13:52:48 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/user.php on line 3
+[16-Dec-2021 18:47:16 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/home.php on line 3
+[05-Jan-2022 16:56:22 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/home.php on line 3
+[05-Jan-2022 16:56:26 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/add_book.php on line 3
+[06-Jan-2022 11:46:42 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/home.php on line 3
+[06-Jan-2022 15:52:55 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/book_payment.php on line 3
+[06-Jan-2022 16:12:02 UTC] PHP Notice:  Undefined variable: user in /home/heartsme/public_html/admin/book_payment.php on line 48
+[06-Jan-2022 16:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/heartsme/public_html/admin/book_payment.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/heartsme/public_html/admin/book_payment.php on line 48
+[06-Jan-2022 16:13:17 UTC] PHP Notice:  Undefined variable: user in /home/heartsme/public_html/admin/book_payment.php on line 48
+[06-Jan-2022 16:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/heartsme/public_html/admin/book_payment.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/heartsme/public_html/admin/book_payment.php on line 48
+[06-Jan-2022 16:13:18 UTC] PHP Notice:  Undefined variable: user in /home/heartsme/public_html/admin/book_payment.php on line 48
+[06-Jan-2022 16:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/heartsme/public_html/admin/book_payment.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/heartsme/public_html/admin/book_payment.php on line 48
+[06-Jan-2022 16:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/heartsme/public_html/admin/edit.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/heartsme/public_html/admin/edit.php on line 30
+[06-Jan-2022 16:20:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/heartsme/public_html/admin/book_payment.php on line 50
+[06-Jan-2022 16:20:46 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/heartsme/public_html/admin/book_payment.php on line 49
+[06-Jan-2022 16:21:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/heartsme/public_html/admin/book_payment.php on line 49
+[06-Jan-2022 16:28:16 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/book_payment.php on line 3
+[08-Jan-2022 02:53:09 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/book_payment.php on line 3
+[08-Jan-2022 10:46:10 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/home.php on line 3
+[23-Jan-2022 18:22:10 UTC] PHP Notice:  Undefined index: admin in /home/heartsme/public_html/admin/home.php on line 3

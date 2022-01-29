@@ -1,0 +1,31 @@
+[06-Jan-2022 16:46:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[06-Jan-2022 18:31:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[06-Jan-2022 19:38:42 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[07-Jan-2022 07:54:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[10-Jan-2022 17:28:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[20-Jan-2022 03:48:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: cover in /home/heartsme/public_html/single_book.php on line 33
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: img in /home/heartsme/public_html/single_book.php on line 35
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: name in /home/heartsme/public_html/single_book.php on line 40
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: result in /home/heartsme/public_html/single_book.php on line 50
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: id in /home/heartsme/public_html/single_book.php on line 57
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: price in /home/heartsme/public_html/single_book.php on line 57
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: name in /home/heartsme/public_html/single_book.php on line 70
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: description in /home/heartsme/public_html/single_book.php on line 74
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: id in /home/heartsme/public_html/single_book.php on line 77
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: video in /home/heartsme/public_html/single_book.php on line 84
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 98
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 98
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 110
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 110
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 122
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 122
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 134
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 134
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 146
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: demo in /home/heartsme/public_html/single_book.php on line 146
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: pdf in /home/heartsme/public_html/single_book.php on line 158
+[24-Jan-2022 10:08:18 UTC] PHP Notice:  Undefined variable: pdf in /home/heartsme/public_html/single_book.php on line 162
+[28-Jan-2022 15:00:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[28-Jan-2022 15:00:48 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13
+[28-Jan-2022 15:00:53 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/heartsme/public_html/login.php on line 13

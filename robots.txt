@@ -1,0 +1,3 @@
+Sitemap: http://heartsmedistudy.com/sitemap.xml
+User-agent: *
+Disallow:
