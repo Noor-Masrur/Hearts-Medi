@@ -9,13 +9,15 @@ if (!isset($_SESSION['admin']) && $_SESSION['admin']!="admin") {
 <head>
 	<meta charset="utf-8">
 	<title>Admin | Panel</title>
+	<?php include("heads.php")?>
+
 </head>
 <body>
 	<center>
 		<h1>All User</h1>
 		<h2><a href="home.php">Home</a>
 	</center>
-	<table cellpadding="5" border="1">
+	<table cellpadding="5" border="1" class="table table-striped  table-primary table-active table-hover" >
 		<tr>
 			<td>id</td>
 			<td>name</td>
